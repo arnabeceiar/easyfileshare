@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually created by a python script from a template before building the exe
+*.manifest
+*.spec
+
+# PyInstaller build artifacts
+build/
+dist/
+
+# Nuitka build artifacts
+build-nuitka/
+nuitka/
+*.bin
+*.exe
+*.app
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE / Editor
+.idea/
+.vscode/settings.json
+.spyproject
+*.swp
+*.swo
+
+# Testing / Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+.tox/
+htmlcov/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

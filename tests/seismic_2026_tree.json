@@ -1,0 +1,76 @@
+{
+  "root": "tests",
+  "timestamp": "2026-05-09T06:55:13.244977+00:00",
+  "contents": [
+    {
+      "path": "dir1",
+      "type": "dir",
+      "size": 0,
+      "mtime": 1776583271,
+      "children": null
+    },
+    {
+      "path": "maketree.py",
+      "type": "file",
+      "size": 4245,
+      "mtime": 1776585353,
+      "children": null
+    },
+    {
+      "path": "print_tree.py",
+      "type": "file",
+      "size": 1530,
+      "mtime": 1776584769,
+      "children": null
+    },
+    {
+      "path": "seismic_2026_tree.json",
+      "type": "file",
+      "size": 1545,
+      "mtime": 1776585359,
+      "children": null
+    },
+    {
+      "path": "testpath",
+      "type": "dir",
+      "size": 0,
+      "mtime": 1776583619,
+      "children": null
+    },
+    {
+      "path": "dir1/dir1_test1.txt",
+      "type": "file",
+      "size": 0,
+      "mtime": 1776583271,
+      "children": null
+    },
+    {
+      "path": "testpath/dir_01",
+      "type": "dir",
+      "size": 0,
+      "mtime": 1776583597,
+      "children": null
+    },
+    {
+      "path": "testpath/dir_02",
+      "type": "dir",
+      "size": 0,
+      "mtime": 1776583651,
+      "children": null
+    },
+    {
+      "path": "testpath/dir_01/dir01_test01.txt",
+      "type": "file",
+      "size": 16,
+      "mtime": 1776583597,
+      "children": null
+    },
+    {
+      "path": "testpath/dir_02/dir02_test01.txt",
+      "type": "file",
+      "size": 16,
+      "mtime": 1776583651,
+      "children": null
+    }
+  ]
+}
